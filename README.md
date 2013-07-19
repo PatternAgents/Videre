@@ -3,8 +3,8 @@ Videre
 
 PatternAgents Videre - LCD Shield with Cortex-M0
 
-[![PatternAgents Videre](http://www.patternagent.com/img/projects/Videre/Videre_model.png)  
-*PatternAgents Videre*](http://www.patternagent.com/projects/Videre.html)
+[![PatternAgents Videre](http://www.patternagents.com/img/projects/Videre/Videre_model.png)  
+*PatternAgents Videre*](http://www.patternagents.com/projects/Videre.html)
 
 The PatternAgents Videre uses an ARM Cortex-M0 based Programmable System-on-Chip (PSoC4) 
 to control a 16x2 Character LCD with color backlighting. The PSoC4  can read read inputs from sensors, 
@@ -52,7 +52,7 @@ All PatternAgents commercial licenses expressly supersede the GPLv3 open source 
 This means that when you license the PatternAgents software under a commercial license, 
 you specifically do not use the software under the open source license and therefore you are not subject to any of its terms.
         
-If you would like to use our designs for your own personal or educational use, have at at! 
+If you would like to use our designs for your own personal or educational use, have at it! 
 
 Our public design repository is available at <a href="https://github.com/patternagents">Github</a>.
 
