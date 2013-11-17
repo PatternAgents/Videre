@@ -1,0 +1,63 @@
+Partlist  at 6/29/2013 11:25:48 AM eagle/PatternAgents/Arduino/Videre/Videre/Videre.sch
+
+Part   Value                 Device                Package               Description                                                     
+C1     0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C2     0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C3     1uF                   CAP0603-CAP           0603-CAP              Capacitor                                                       
+C4     0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C5     1uF                   CAP0603-CAP           0603-CAP              Capacitor                                                       
+C6     0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C7     1uF                   CAP0603-CAP           0603-CAP              Capacitor                                                       
+C8     10uF                  CAP1210               1210                  Capacitor                                                       
+C9     10uF                  CAP1210               1210                  Capacitor                                                       
+C10    10uF                  CAP1210               1210                  Capacitor                                                       
+C11    0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C12    10nF                  CAP0603-CAP           0603-CAP              Capacitor                                                       
+C13    0.1uF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+C14    2.2nF                 CAP0603-CAP           0603-CAP              Capacitor                                                       
+J1                           M02PTH                1X02                  Header 2                                                        
+JTAG1                        JTAG-CORTEXM3         2X05_1.27MM_SMT       JTAG Programming Connector                                      
+Q1     MOSFET-PCHANNELSMD    MOSFET-PCHANNELSMD    SOT23-3               Generic PMOSFET                                                 
+Q2     MOSFET-PCHANNELSMD    MOSFET-PCHANNELSMD    SOT23-3               Generic PMOSFET                                                 
+Q3     MOSFET-PCHANNELSMD    MOSFET-PCHANNELSMD    SOT23-3               Generic PMOSFET                                                 
+R1     100                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R2     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R3     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R4     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R5     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R6     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R7     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R8     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R9     10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R10    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R11    10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R12    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R13    10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R14    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R15    10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R16    4.7K                  RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R17    4.7K                  RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R20    4.7K                  RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R21    10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R22    10K                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R23    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R24    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R25    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R26    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R27    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R28    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R29    240                   RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R30    390                   RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R31    330                   RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R32    0                     RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R33    330                   RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R34    330                   RESISTORR0603         R0603                 RESISTOR, American symbol                                       
+R35    180                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R36    120                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+R37    120                   RESISTOR_SFE0603-RES  0603-RES              Resistor                                                        
+S1     SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH           Various NO switches- pushbuttons, reed, etc                     
+S2     SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH           Various NO switches- pushbuttons, reed, etc                     
+SLIDER                       M081X08               1X08                  Header 8                                                        
+LCD    LCD-16X2RGB           LCD-16X2RGB           LCD-16X2RGB                                                                           
+U1     CY8C42XX-44PIN        CY8C42XX-44PIN        TQFP-10X10-44         Cypress PSoC® 4 - Programmable System on Chip,  Cortex-M0 Based 
+U3     V_REG_317SMD          V_REG_317SMD          SOT223                Voltage Regulator                                               
